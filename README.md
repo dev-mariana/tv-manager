@@ -3,7 +3,7 @@
 <p align="center">Um sistema de gerenciamento de TV, onde é possível ligar e desligar a tv, mudar de canal e aumentar e diminuir o volume.</p>
 <p align="center">A TV management system, where you can turn the TV on and off, change channels and increase and decrease the volume.</p>
 
-# <h1>Instalação - Installation</h1>
+# <h2 align="center">Instalação - Installation</h2>
 
 1. Clone o repositório git clone `git@github.com:dev-mariana/tv-manager.git`. 
 
